@@ -4,7 +4,7 @@ from email.mime.text import MIMEText
 SMTP_SERVER = "smtp.gmail.com"
 SMTP_PORT = 587
 EMAIL_SENDER = "sandalimahi43@gmail.com"
-EMAIL_PASSWORD = "Sandali2000"
+EMAIL_PASSWORD = "zlqagiwpobvyxvqk"
 
 def send_followup_email(email, name):
     subject = "Your CV is Under Review"

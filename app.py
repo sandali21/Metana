@@ -51,9 +51,9 @@ def index():
             send_followup_email(email, name)
 
 
-            return redirect(url_for("index"))
+            return render_template('index.html', success=True)
 
-    return render_template("index.html")
+    return render_template("index.html", success=False)
 
 
 if __name__ == "__main__":

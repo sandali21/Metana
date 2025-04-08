@@ -1,0 +1,17 @@
+.container {
+    margin-top: 50px;
+}
+
+.form-container {
+    padding: 20px;
+}
+
+.image-container img {
+    max-width: 100%;
+    height: auto;
+    margin-top: 50px;
+}
+
+.form{
+    width:400px;
+}

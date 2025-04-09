@@ -12,10 +12,12 @@ Check your python version:
 #### 2. Clone the Github Repository
 
 #### 3. Create Virtual Environment
-python -m venv venv
--source venv/bin/activate  # For macOS/Linux
---
--venv\Scripts\activate     # For Windows
+python -m venv venv  
+# For macOS/Linux  
+source venv/bin/activate  
+
+# For Windows  
+venv\Scripts\activate  
 
 
 #### 4. Install Dependencies

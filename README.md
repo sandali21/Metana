@@ -13,10 +13,9 @@ Check your python version:
 
 #### 3. Create Virtual Environment
 python -m venv venv  
-# For macOS/Linux  
+##### For macOS/Linux  
 source venv/bin/activate  
-
-# For Windows  
+#### For Windows  
 venv\Scripts\activate  
 
 

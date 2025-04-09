@@ -13,10 +13,8 @@ Check your python version:
 
 #### 3. Create Virtual Environment
 python -m venv venv  
-##### For macOS/Linux  
-source venv/bin/activate  
-#### For Windows  
-venv\Scripts\activate  
+source venv/bin/activate  (For macOS/Linux)
+venv\Scripts\activate  (For Windows)
 
 
 #### 4. Install Dependencies
